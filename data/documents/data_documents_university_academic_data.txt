@@ -1,0 +1,16 @@
+
+UNIVERSITY ACADEMIC FAQ:
+Q: What is the minimum GPA required for graduation?
+A: The minimum cumulative GPA required for graduation is 2.0 out of 4.0.
+
+Q: How many credit hours are needed for a Bachelor of Science in Information Systems?
+A: Students must complete a total of 130 credit hours to graduate from the Information Systems program.
+
+Q: What is the process for academic advising?
+A: Each student is assigned an academic advisor; students must meet with their advisor at least twice per semester for course registration and degree progress review.
+
+Q: Are there any internship requirements?
+A: Yes, all students are required to complete a 3-month internship in a relevant IT department to gain practical experience before graduation.
+
+Q: What is the policy regarding course withdrawal?
+A: Students may withdraw from a course up to two weeks before the final exam period, provided they maintain the minimum required credit hours.
